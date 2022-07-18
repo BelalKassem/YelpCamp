@@ -12,6 +12,6 @@ Technologies:
 
 Features:
 - Full CRUD functionality to create, read (or view), update, and delete campgrounds.
-- Authentication (ex: can't create campground/leave review unless logged in) and authorization (ex: can't edit or delete a campground/review unless you are the author)
+- Authentication (ex: can't create a campground/leave a review unless logged in) and authorization (ex: can't edit or delete a campground/review unless you are the author)
 - Geocoding and map clustering using Mapbox
 - Image upload using Cloudinary
