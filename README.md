@@ -2,7 +2,7 @@
 Yelp-like full stack website that allows you to view, review, and create campgrounds. 
 
 Demo Link: 
-https://supermarche-fromage-01195.herokuapp.com/ (link might take some time to load)
+https://supermarche-fromage-01195.herokuapp.com/ (Project is hosted using heroku's free tier so it might take some time to load)
 
 Technologies:
 -HTML5/EJS
